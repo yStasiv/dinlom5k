@@ -1,0 +1,9 @@
+E:\Other\Univer\Диплом5курс\prog1.0\program.dip\program.dip\bin\Debug\program.dip.exe.config
+E:\Other\Univer\Диплом5курс\prog1.0\program.dip\program.dip\bin\Debug\program.dip.exe
+E:\Other\Univer\Диплом5курс\prog1.0\program.dip\program.dip\bin\Debug\program.dip.pdb
+E:\Other\Univer\Диплом5курс\prog1.0\program.dip\program.dip\obj\Debug\program.dip.csprojResolveAssemblyReference.cache
+E:\Other\Univer\Диплом5курс\prog1.0\program.dip\program.dip\obj\Debug\program.dip.Form1.resources
+E:\Other\Univer\Диплом5курс\prog1.0\program.dip\program.dip\obj\Debug\program.dip.Properties.Resources.resources
+E:\Other\Univer\Диплом5курс\prog1.0\program.dip\program.dip\obj\Debug\program.dip.csproj.GenerateResource.Cache
+E:\Other\Univer\Диплом5курс\prog1.0\program.dip\program.dip\obj\Debug\program.dip.exe
+E:\Other\Univer\Диплом5курс\prog1.0\program.dip\program.dip\obj\Debug\program.dip.pdb

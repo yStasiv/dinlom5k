@@ -1,0 +1,30 @@
+ 0.18000E+01             internal radious (Rw, m)
+ 0.95000E-01        thickness (h, m)
+ 0.50000E+01 VT - velocity of temperature changes on steam drum internal surface
+ 0.15500E+02 pressure (p, MPa)
+ 0.30000E+01 concentration coeficient koef_fi
+ 0.10000E+01 concentration coeficient koef_z
+ 0.21000E+06 E (Jung's modul, MPa) T=20
+ 0.19100E+06 E (Jung's modul, MPa) T=340
+ 0.46000E+03 S_B (strength, MPa)
+ 0.40000E+02 PSI (%)
+  1315       N_start (Number of planed starts and stops) 
+-0.10000E+01 pararmeter r
+     2       paramater n ***************************************************
+ 0.19400E+02 hidraulic test pressure (p, MPa)
+     9       N_puskh (Number of hidraulic tests)
+ 0.00000E+00 pararmeter r
+     2       paramater n ***************************************************
+ 0.13341E-04 alfa_T
+  1315       N_TU (Number of Heat Shock)   
+ 0.10000E+03 Gradient of temperature 0.64000E+06
+-0.00000E+00 pararmeter r
+     2       paramater n ***************************************************
+ 0.64000E+06 
+ 0.50000E-02
+ 0.15940E+03
+ 0.16730E-02
+ 0.20000E+02 Gradient of temperature
+ 0.25000E+06 Time of exploitation
+-0.10000E+01 pararmeter r
+     2       paramater n
